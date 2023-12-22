@@ -1,5 +1,6 @@
 public class Auto {
     //pola klasy
+    //tylko jedna klase moge tu na gitthub zmienic bo reszta ciezko
     String marka;
     String kolor;
     String model;
