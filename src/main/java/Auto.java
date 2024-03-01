@@ -8,10 +8,10 @@ public class Auto {
     int pojemnoscSilnika;
 
     public Auto() {
-        for(int i=0; i < 30; i++){
-            System.out.println("bonifacy");
-        }
+        for(int i=0; i < 20; i++){
+            System.out.println("abcdefg");
 
+        }
     }
 
     public Auto(String kolor) {
