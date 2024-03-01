@@ -8,7 +8,9 @@ public class Auto {
     int pojemnoscSilnika;
 
     public Auto() {
-
+        for(int i=0; i < 30; i++){
+            System.out.println("bonifacy");
+        }
 
     }
 
